@@ -1,0 +1,19 @@
+##tensorflow gpu
+pip install tensorflow-gpu==2.0.0-rc0
+
+##numpy
+pip install numpy
+
+##conda
+conda install -c anaconda pip
+conda update --all
+
+##tensorflow cpu
+pip install tensorflow
+
+##pandas
+pip install pandas
+
+##mlxtend
+pip install mlxtend==0.17.0
+
